@@ -12,6 +12,10 @@ h1{
 }
 
 h2{
+	color:#ccccff;
+}
+
+h3{
 	color:#ffffff;
 }
 
@@ -63,7 +67,8 @@ a{
 }
 
 .sub_menu ul{
-	margin: 0;
+	display: inline-block;
+	margin: 0 auto;
 	padding: 0px,0px,8px,0px;
 	float: left;
 	width: 900px;
@@ -73,7 +78,7 @@ a{
 .sub_menu li{
 	list-style: none;
 	color: #edf2c5;
-	padding: 13px 60px 13px 0px;
+	padding: 13px 40px 13px 0px;
 	display: inline-block;
 	float: left;
 }
