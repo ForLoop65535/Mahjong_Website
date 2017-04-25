@@ -7,6 +7,7 @@ p{
 }
 
 h1{
+	text-align:center;
 	color:#aaaaff;
 }
 
@@ -18,9 +19,8 @@ img{
 	margin: 2px 0px;
 }
 
-.mahjong{
-	//float: left;
-	vertical-align:bottom;
+a{
+	text-decoration:none;
 }
 
 .logo_menu{
